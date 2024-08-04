@@ -1,0 +1,22 @@
+{
+  "name": "jack",
+  "version": "1.0.0",
+  "description": "Um simples bot para a plataforma Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Eduardo Bezerra (Pardoardo)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}
